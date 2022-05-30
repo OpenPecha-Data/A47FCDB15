@@ -1,0 +1,19 @@
+segment_sources:
+  I70535D0B:
+    type: origin_type
+    relation: translation
+    language: en
+  I8483CC47:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  95f37489c3b94bf896e9d9d34a172e63:
+    I70535D0B: 1bbcd97012fb47809b8aa1c46561565c
+    I8483CC47: e111f90e2dce4ba9ba28fff99ef091c8
+  c8e2f1db4c964acb9b6a4cb2176d7630:
+    I70535D0B: 4292cf6891bd4113a4f047a87531ab44
+    I8483CC47: 42331a43f5b9460f87563770f3801b7e
+  22e52ceee71a4c38b3b57d1cf944e1af:
+    I70535D0B: 34d2fcec3aa34df0ad7508942ace9f45
+    I8483CC47: 8928e26fcd624fbf8f2a321f5e559daf
